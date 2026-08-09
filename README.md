@@ -1,38 +1,21 @@
 <div align="center">
 
-# NOHAN AI CORE
+# Olá, eu sou o Nohan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Desenvolvedor+detectado+%E2%9C%94;Criatividade+ativada+%E2%9C%94;Full+Stack+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80;STATUS%3A+ONLINE" alt="Terminal animado de apresentação" />
+### Desenvolvedor Full Stack em formação
+
+João Pessoa, Brasil 🇧🇷
 
 </div>
 
-```bash
-╭────────────────────────────────╮
-│       NOHAN SYSTEM v1.0        │
-╰────────────────────────────────╯
-
-> Location: João Pessoa, Brasil
-> Role: Full Stack Developer em formação
-> Mode: Aprendendo, criando e evoluindo
-```
-
 ## Sobre mim
 
-```javascript
-const nohan = {
-  nome: "Nohan",
-  perfil: "Jovem desenvolvedor Full Stack em formação",
-  localização: "João Pessoa, Brasil 🇧🇷",
+Sou um jovem desenvolvedor interessado em transformar ideias em projetos úteis. Atualmente estou desenvolvendo minhas habilidades em front-end, back-end e bancos de dados, sempre aprendendo por meio da prática.
 
-  tecnologias: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Python", "Node.js"],
-    bancoDeDados: ["MySQL", "Supabase"]
-  },
-
-  mentalidade: "Transformar curiosidade em código e código em soluções."
-};
-```
+- 💻 Construindo minha base como desenvolvedor Full Stack
+- 🚀 Criando projetos para resolver problemas reais
+- 📚 Evoluindo constantemente em novas tecnologias
+- 🤝 Buscando colaborar com outros desenvolvedores
 
 ## Tecnologias
 
@@ -44,17 +27,11 @@ const nohan = {
 
 ## Objetivos atuais
 
-```bash
-> Carregando próximas conquistas...
-
-[01] Construir projetos Full Stack úteis e completos
-[02] Criar APIs organizadas com Node.js e Python
-[03] Dominar autenticação, bancos de dados e deploy
-[04] Integrar inteligência artificial em uma aplicação real
-[05] Fazer minha primeira contribuição open source
-
-MISSÃO: aprender na prática, publicar resultados e evoluir a cada projeto.
-```
+- Desenvolver projetos Full Stack completos e bem organizados
+- Criar APIs com Node.js e Python
+- Aprender mais sobre autenticação, bancos de dados e deploy
+- Integrar inteligência artificial a uma aplicação real
+- Fazer minha primeira contribuição para um projeto open source
 
 ## Contato
 
