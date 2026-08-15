@@ -1,46 +1,59 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,100:0066FF&height=190&section=header&text=Nohan&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20em%20forma%C3%A7%C3%A3o%20%7C%20Jo%C3%A3o%20Pessoa%2C%20Brasil&descAlignY=58&descSize=17" alt="Nohan — Full Stack em formação" />
 
-## 🔹 Sobre mim
+## Sobre mim
 
-Sou um jovem desenvolvedor interessado em transformar ideias em projetos úteis. Atualmente estou desenvolvendo minhas habilidades em front-end, back-end e bancos de dados, sempre aprendendo por meio da prática.
+Desenvolvedor Full Stack em formação, criando projetos próprios e aprendendo desenvolvimento na prática. Gosto de transformar ideias em produtos que realmente possam ser usados, trabalhando do conceito ao deploy.
 
-- 💻 Construindo minha base como desenvolvedor Full Stack
-- 🚀 Criando projetos para resolver problemas reais
-- 📚 Evoluindo constantemente em novas tecnologias
-- 🤝 Buscando colaborar com outros desenvolvedores
-
-## 🔹 Tecnologias
+## Projeto em destaque
 
 <div align="center">
+  <img src="./assets/agorajp.svg" width="82" alt="JP Agora" />
+  <h3>JP Agora</h3>
+  <p>Portal hiperlocal de notícias e informações de João Pessoa.</p>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,mysql,supabase&theme=dark&perline=7" alt="Python, Node.js, HTML, CSS, JavaScript, MySQL e Supabase" />
-
+  <a href="https://agorajp.vercel.app">
+    <img src="https://img.shields.io/badge/Acessar%20projeto-d71920?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar JP Agora" />
+  </a>
 </div>
 
-## 🔹 Objetivos atuais
+O **JP Agora** foi criado para concentrar acontecimentos, notícias e informações relevantes de João Pessoa em uma experiência rápida e organizada. O projeto envolve desenvolvimento de produto, interface, banco de dados, arquitetura web e publicação em produção.
 
-- Desenvolver projetos Full Stack completos e bem organizados
-- Criar APIs com Node.js e Python
-- Aprender mais sobre autenticação, bancos de dados e deploy
-- Integrar inteligência artificial a uma aplicação real
-- Fazer minha primeira contribuição para um projeto open source
+**Stack do projeto:** React · TypeScript · TanStack · Tailwind CSS · Supabase · Vercel
 
-## 🔹 Contato
+- Produto publicado e acessível na web
+- Interface responsiva para desktop e mobile
+- Estrutura preparada para conteúdo dinâmico e evolução do produto
+- Banco de dados e serviços integrados com Supabase
+- Código-fonte mantido em repositório privado
+
+## Tecnologias
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,mysql,supabase,git,github&theme=dark&perline=9" alt="Tecnologias" />
+</div>
 
-<a href="https://www.instagram.com/nohan.vs/">
-  <img src="https://img.shields.io/badge/Instagram-%40nohan.vs-0066FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050B18" alt="Instagram @nohan.vs" />
-</a>
+## Atualmente
 
+- Evoluindo o JP Agora
+- Desenvolvendo novos projetos Full Stack
+- Estudando automações, APIs e inteligência artificial aplicada a produtos digitais
+- Construindo meu portfólio e aprofundando minha experiência prática
+
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nohanvs">
+    <img src="https://img.shields.io/badge/LinkedIn-nohanvs-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050B18" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/nohan.vs/">
+    <img src="https://img.shields.io/badge/Instagram-%40nohan.vs-0066FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050B18" alt="Instagram @nohan.vs" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-### 🔷 Ideias em código. Código em evolução.
-
+  <strong>Ideias em código. Código em evolução.</strong>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:050B18&height=90&section=footer" alt="Rodapé azul e preto" />
